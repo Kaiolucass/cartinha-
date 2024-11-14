@@ -1,0 +1,27 @@
+body {
+    font-family: "comic Sans MS";
+    background-color: #facdcd;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.cartinha {
+    background-color: #fbd2ec;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    text-align: center;
+}
+
+.cartinha h1 {
+    color: #FF69B4;
+}
+
+.cartinha p {
+    font-size: 1.1em;
+    color: #333
+}
